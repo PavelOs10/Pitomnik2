@@ -60,57 +60,63 @@ public class UserInterface {
     }
 
     private void addAnimal() {
-        System.out.print("Введите тип животного (Dog, Cat, Hamster, Horse, Camel, Donkey): ");
-        String type = scanner.nextLine();
-        System.out.print("Введите имя животного: ");
-        String name = scanner.nextLine();
-        System.out.print("Введите дату рождения (YYYY-MM-DD): ");
-        String birthDateStr = scanner.nextLine();
-        LocalDate birthDate = LocalDate.parse(birthDateStr);
-        System.out.print("Введите команды (через запятую): ");
-        String commandsStr = scanner.nextLine();
-        List<String> commands = Arrays.asList(commandsStr.split(",\\s*"));
+        try {
+            System.out.print("Введите тип животного (Dog, Cat, Hamster, Horse, Camel, Donkey): ");
+            String type = scanner.nextLine();
+            System.out.print("Введите имя животного: ");
+            String name = scanner.nextLine();
+            System.out.print("Введите дату рождения (YYYY-MM-DD): ");
+            String birthDateStr = scanner.nextLine();
+            LocalDate birthDate = LocalDate.parse(birthDateStr);
+            System.out.print("Введите команды (через запятую): ");
+            String commandsStr = scanner.nextLine();
+            List<String> commands = Arrays.asList(commandsStr.split(",\\s*"));
 
-        Animal animal = null;
-        switch (type.toLowerCase()) {
-            case "dog":
-                System.out.print("Введите породу: ");
-                String breed = scanner.nextLine();
-                animal = new Dog(name, birthDate, commands, breed);
-                break;
-            case "cat":
-                System.out.print("Введите цвет: ");
-                String color = scanner.nextLine();
-                animal = new Cat(name, birthDate, commands, color);
-                break;
-            case "hamster":
-                System.out.print("Введите размер колеса: ");
-                double wheelSize = Double.parseDouble(scanner.nextLine());
-                animal = new Hamster(name, birthDate, commands, wheelSize);
-                break;
-            case "horse":
-                System.out.print("Введите скорость: ");
-                double speed = Double.parseDouble(scanner.nextLine());
-                animal = new Horse(name, birthDate, commands, speed);
-                break;
-            case "camel":
-                System.out.print("Введите количество горбов: ");
-                int humpCount = Integer.parseInt(scanner.nextLine());
-                animal = new Camel(name, birthDate, commands, humpCount);
-                break;
-            case "donkey":
-                System.out.print("Введите силу: ");
-                double strength = Double.parseDouble(scanner.nextLine());
-                animal = new Donkey(name, birthDate, commands, strength);
-                break;
-            default:
-                System.out.println("Неизвестный тип животного.");
-                return;
+
+            Animal animal = null;
+            switch (type.toLowerCase()) {
+                case "dog":
+                    System.out.print("Введите породу: ");
+                    String breed = scanner.nextLine();
+                    animal = new Dog(name, birthDate, commands, breed);
+                    break;
+                case "cat":
+                    System.out.print("Введите цвет: ");
+                    String color = scanner.nextLine();
+                    animal = new Cat(name, birthDate, commands, color);
+                    break;
+                case "hamster":
+                    System.out.print("Введите размер колеса: ");
+                    double wheelSize = Double.parseDouble(scanner.nextLine());
+                    animal = new Hamster(name, birthDate, commands, wheelSize);
+                    break;
+                case "horse":
+                    System.out.print("Введите скорость: ");
+                    double speed = Double.parseDouble(scanner.nextLine());
+                    animal = new Horse(name, birthDate, commands, speed);
+                    break;
+                case "camel":
+                    System.out.print("Введите количество горбов: ");
+                    int humpCount = Integer.parseInt(scanner.nextLine());
+                    animal = new Camel(name, birthDate, commands, humpCount);
+                    break;
+                case "donkey":
+                    System.out.print("Введите силу: ");
+                    double strength = Double.parseDouble(scanner.nextLine());
+                    animal = new Donkey(name, birthDate, commands, strength);
+                    break;
+                default:
+                    System.out.println("Неизвестный тип животного.");
+                    return;
+            }
+
+            registry.addAnimal(animal);
+            System.out.println("Животное добавлено успешно.");
+        } catch (java.time.format.DateTimeParseException e) {
+            System.out.println("Неверный формат даты. Пожалуйста, используйте формат YYYY-MM-DD.");
+        } catch (NumberFormatException e) {
+            System.out.println("Неверный формат числа. Пожалуйста, введите правильное значение.");
         }
-
-
-        registry.addAnimal(animal);
-        System.out.println("Животное добавлено успешно.");
     }
 
     private void listCommands() {

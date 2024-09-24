@@ -3,7 +3,6 @@ package com.pitomnik.registry;
 import com.pitomnik.animals.Animal;
 import com.pitomnik.db.AnimalDAO;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
