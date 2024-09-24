@@ -10,4 +10,8 @@ public class Counter {
     public static int getCount() {
         return count;
     }
+
+    public static void setCount(int c) {
+        count = c;
+    }
 }

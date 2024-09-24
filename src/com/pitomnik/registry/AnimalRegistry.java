@@ -1,6 +1,7 @@
 package com.pitomnik.registry;
 
-import com.pitomnik.animals.*;
+import com.pitomnik.animals.Animal;
+import com.pitomnik.db.AnimalDAO;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -9,13 +10,18 @@ import java.util.List;
 
 public class AnimalRegistry {
     private List<Animal> animals;
+    private AnimalDAO dao;
 
     public AnimalRegistry() {
-        animals = new ArrayList<>();
+        dao = new AnimalDAO();
+        animals = dao.loadAllAnimals();
+        Counter.setCount(animals.size());
     }
 
     public void addAnimal(Animal animal) {
         animals.add(animal);
+        dao.saveAnimal(animal);
+        Counter.increment();
     }
 
     public List<String> getCommands(String animalName) {

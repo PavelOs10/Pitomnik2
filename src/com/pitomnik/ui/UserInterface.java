@@ -1,17 +1,23 @@
-package com.pitomnik.registry;
+package com.pitomnik.ui;
 
 import com.pitomnik.animals.*;
+import com.pitomnik.registry.AnimalRegistry;
 
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
-    private static AnimalRegistry registry = new AnimalRegistry();
-    private static Scanner scanner = new Scanner(System.in);
+public class UserInterface {
+    private AnimalRegistry registry;
+    private Scanner scanner;
 
-    public static void main(String[] args) {
+    public UserInterface() {
+        registry = new AnimalRegistry();
+        scanner = new Scanner(System.in);
+    }
+
+    public void start() {
         boolean exit = false;
         while (!exit) {
             printMenu();
@@ -42,7 +48,7 @@ public class Main {
         scanner.close();
     }
 
-    private static void printMenu() {
+    private void printMenu() {
         System.out.println("=== Реестр домашних животных ===");
         System.out.println("1. Добавить новое животное");
         System.out.println("2. Вывести список команд животного");
@@ -53,7 +59,7 @@ public class Main {
         System.out.print("Выберите опцию: ");
     }
 
-    private static void addAnimal() {
+    private void addAnimal() {
         System.out.print("Введите тип животного (Dog, Cat, Hamster, Horse, Camel, Donkey): ");
         String type = scanner.nextLine();
         System.out.print("Введите имя животного: ");
@@ -107,7 +113,7 @@ public class Main {
         System.out.println("Животное добавлено успешно.");
     }
 
-    private static void listCommands() {
+    private void listCommands() {
         System.out.print("Введите имя животного: ");
         String name = scanner.nextLine();
         List<String> commands = registry.getCommands(name);
@@ -118,7 +124,7 @@ public class Main {
         }
     }
 
-    private static void learnCommand() {
+    private void learnCommand() {
         System.out.print("Введите имя животного: ");
         String name = scanner.nextLine();
         System.out.print("Введите новую команду: ");
@@ -131,7 +137,7 @@ public class Main {
         }
     }
 
-    private static void listAnimalsByBirthDate() {
+    private void listAnimalsByBirthDate() {
         List<Animal> sortedAnimals = registry.getAnimalsByBirthDate();
         System.out.println("Список животных по дате рождения:");
         for (Animal animal : sortedAnimals) {
@@ -139,7 +145,7 @@ public class Main {
         }
     }
 
-    private static void showTotalCount() {
+    private void showTotalCount() {
         int count = registry.getTotalCount();
         System.out.println("Общее количество животных: " + count);
     }
