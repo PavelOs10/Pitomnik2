@@ -1,0 +1,1000 @@
+  592  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  593  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  594  ░░ Subject: Unit process exited
+  595  ░░ Defined-By: systemd
+  596  ░░ Support: http://www.ubuntu.com/support
+  597  ░░
+  598  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  599  ░░
+  600  ░░ The process' exit code is 'exited' and its exit status is 1.
+  601  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  602  ░░ Subject: Unit failed
+  603  ░░ Defined-By: systemd
+  604  ░░ Support: http://www.ubuntu.com/support
+  605  ░░
+  606  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  607  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  608  ░░ Subject: A start job for unit openvpn@server.service has failed
+  609  ░░ Defined-By: systemd
+  610  ░░ Support: http://www.ubuntu.com/support
+  611  ░░
+  612  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  613  ░░
+  614  ░░ The job identifier is 15137 and the job result is failed.
+  615  ~
+  616  ~
+  617  ~
+  618  ~
+  619  ~
+  620  lines 4079-4127/4127 (END)
+  621  ░░
+  622  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  623  Sep 10 13:57:22 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  624  ░░ Subject: A start job for unit openvpn@server.service has failed
+  625  ░░ Defined-By: systemd
+  626  ░░ Support: http://www.ubuntu.com/support
+  627  ░░
+  628  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  629  ░░
+  630  ░░ The job identifier is 15043 and the job result is failed.
+  631  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  632  ░░ Subject: Automatic restarting of a unit has been scheduled
+  633  ░░ Defined-By: systemd
+  634  ░░ Support: http://www.ubuntu.com/support
+  635  ░░
+  636  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  637  ░░ the configured Restart= setting for the unit.
+  638  Sep 10 13:57:28 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  639  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  640  ░░ Defined-By: systemd
+  641  ░░ Support: http://www.ubuntu.com/support
+  642  ░░
+  643  ░░ A start job for unit openvpn@server.service has begun execution.
+  644  ░░
+  645  ░░ The job identifier is 15137.
+  646  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Options error: Unrecognized option >
+  647  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  648  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  649  ░░ Subject: Unit process exited
+  650  ░░ Defined-By: systemd
+  651  ░░ Support: http://www.ubuntu.com/support
+  652  ░░
+  653  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  654  ░░
+  655  ░░ The process' exit code is 'exited' and its exit status is 1.
+  656  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  657  ░░ Subject: Unit failed
+  658  ░░ Defined-By: systemd
+  659  ░░ Support: http://www.ubuntu.com/support
+  660  ░░
+  661  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  662  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  663  ░░ Subject: A start job for unit openvpn@server.service has failed
+  664  ░░ Defined-By: systemd
+  665  ░░ Support: http://www.ubuntu.com/support
+  666  ░░
+  667  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  668  ░░
+  669  ░░ The job identifier is 15137 and the job result is failed.
+  670  ~
+  671  lines 4079-4127/4127 (END)
+  672  ░░
+  673  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  674  Sep 10 13:57:22 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  675  ░░ Subject: A start job for unit openvpn@server.service has failed
+  676  ░░ Defined-By: systemd
+  677  ░░ Support: http://www.ubuntu.com/support
+  678  ░░
+  679  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  680  ░░
+  681  ░░ The job identifier is 15043 and the job result is failed.
+  682  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  683  ░░ Subject: Automatic restarting of a unit has been scheduled
+  684  ░░ Defined-By: systemd
+  685  ░░ Support: http://www.ubuntu.com/support
+  686  ░░
+  687  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  688  ░░ the configured Restart= setting for the unit.
+  689  Sep 10 13:57:28 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  690  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  691  ░░ Defined-By: systemd
+  692  ░░ Support: http://www.ubuntu.com/support
+  693  ░░
+  694  ░░ A start job for unit openvpn@server.service has begun execution.
+  695  ░░
+  696  ░░ The job identifier is 15137.
+  697  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Options error: Unrecognized option >
+  698  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  699  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  700  ░░ Subject: Unit process exited
+  701  ░░ Defined-By: systemd
+  702  ░░ Support: http://www.ubuntu.com/support
+  703  ░░
+  704  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  705  ░░
+  706  ░░ The process' exit code is 'exited' and its exit status is 1.
+  707  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  708  ░░ Subject: Unit failed
+  709  ░░ Defined-By: systemd
+  710  ░░ Support: http://www.ubuntu.com/support
+  711  ░░
+  712  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  713  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  714  ░░ Subject: A start job for unit openvpn@server.service has failed
+  715  ░░ Defined-By: systemd
+  716  ░░ Support: http://www.ubuntu.com/support
+  717  ░░
+  718  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  719  ░░
+  720  ░░ The job identifier is 15137 and the job result is failed.
+  721  ~
+  722  ~
+  723  ~
+  724  ~
+  725  ~
+  726  ~
+  727  ~
+  728  lines 4079-4127/4127 (END)
+  729  ░░
+  730  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  731  Sep 10 13:57:22 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  732  ░░ Subject: A start job for unit openvpn@server.service has failed
+  733  ░░ Defined-By: systemd
+  734  ░░ Support: http://www.ubuntu.com/support
+  735  ░░
+  736  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  737  ░░
+  738  ░░ The job identifier is 15043 and the job result is failed.
+  739  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  740  ░░ Subject: Automatic restarting of a unit has been scheduled
+  741  ░░ Defined-By: systemd
+  742  ░░ Support: http://www.ubuntu.com/support
+  743  ░░
+  744  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  745  ░░ the configured Restart= setting for the unit.
+  746  Sep 10 13:57:28 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  747  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  748  ░░ Defined-By: systemd
+  749  ░░ Support: http://www.ubuntu.com/support
+  750  ░░
+  751  ░░ A start job for unit openvpn@server.service has begun execution.
+  752  ░░
+  753  ░░ The job identifier is 15137.
+  754  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Options error: Unrecognized option >
+  755  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  756  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  757  ░░ Subject: Unit process exited
+  758  ░░ Defined-By: systemd
+  759  ░░ Support: http://www.ubuntu.com/support
+  760  ░░
+  761  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  762  ░░
+  763  ░░ The process' exit code is 'exited' and its exit status is 1.
+  764  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  765  ░░ Subject: Unit failed
+  766  ░░ Defined-By: systemd
+  767  ░░ Support: http://www.ubuntu.com/support
+  768  ░░
+  769  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  770  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  771  ░░ Subject: A start job for unit openvpn@server.service has failed
+  772  ░░ Defined-By: systemd
+  773  ░░ Support: http://www.ubuntu.com/support
+  774  ░░
+  775  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  776  ░░
+  777  ░░ The job identifier is 15137 and the job result is failed.
+  778  ~
+  779  lines 4079-4127/4127 (END)
+  780  ░░
+  781  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  782  Sep 10 13:57:22 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  783  ░░ Subject: A start job for unit openvpn@server.service has failed
+  784  ░░ Defined-By: systemd
+  785  ░░ Support: http://www.ubuntu.com/support
+  786  ░░
+  787  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  788  ░░
+  789  ░░ The job identifier is 15043 and the job result is failed.
+  790  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  791  ░░ Subject: Automatic restarting of a unit has been scheduled
+  792  ░░ Defined-By: systemd
+  793  ░░ Support: http://www.ubuntu.com/support
+  794  ░░
+  795  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  796  ░░ the configured Restart= setting for the unit.
+  797  Sep 10 13:57:28 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  798  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  799  ░░ Defined-By: systemd
+  800  ░░ Support: http://www.ubuntu.com/support
+  801  ░░
+  802  ░░ A start job for unit openvpn@server.service has begun execution.
+  803  ░░
+  804  ░░ The job identifier is 15137.
+  805  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Options error: Unrecognized option >
+  806  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  807  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  808  ░░ Subject: Unit process exited
+  809  ░░ Defined-By: systemd
+  810  ░░ Support: http://www.ubuntu.com/support
+  811  ░░
+  812  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  813  ░░
+  814  ░░ The process' exit code is 'exited' and its exit status is 1.
+  815  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  816  ░░ Subject: Unit failed
+  817  ░░ Defined-By: systemd
+  818  ░░ Support: http://www.ubuntu.com/support
+  819  ░░
+  820  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  821  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  822  ░░ Subject: A start job for unit openvpn@server.service has failed
+  823  ░░ Defined-By: systemd
+  824  ░░ Support: http://www.ubuntu.com/support
+  825  ░░
+  826  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  827  ░░
+  828  ░░ The job identifier is 15137 and the job result is failed.
+  829  ~
+  830  ~
+  831  ~
+  832  ~
+  833  ~
+  834  ~
+  835  ~
+  836  ~
+  837  lines 4079-4127/4127 (END)
+  838  ░░
+  839  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  840  Sep 10 13:57:22 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  841  ░░ Subject: A start job for unit openvpn@server.service has failed
+  842  ░░ Defined-By: systemd
+  843  ░░ Support: http://www.ubuntu.com/support
+  844  ░░
+  845  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  846  ░░
+  847  ░░ The job identifier is 15043 and the job result is failed.
+  848  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  849  ░░ Subject: Automatic restarting of a unit has been scheduled
+  850  ░░ Defined-By: systemd
+  851  ░░ Support: http://www.ubuntu.com/support
+  852  ░░
+  853  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  854  ░░ the configured Restart= setting for the unit.
+  855  Sep 10 13:57:28 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  856  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  857  ░░ Defined-By: systemd
+  858  ░░ Support: http://www.ubuntu.com/support
+  859  ░░
+  860  ░░ A start job for unit openvpn@server.service has begun execution.
+  861  ░░
+  862  ░░ The job identifier is 15137.
+  863  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Options error: Unrecognized option >
+  864  Sep 10 13:57:28 vm863991 ovpn-server[2716]: Use --help for more information.
+  865  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  866  ░░ Subject: Unit process exited
+  867  ░░ Defined-By: systemd
+  868  ░░ Support: http://www.ubuntu.com/support
+  869  ░░
+  870  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  871  ░░
+  872  ░░ The process' exit code is 'exited' and its exit status is 1.
+  873  Sep 10 13:57:28 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  874  ░░ Subject: Unit failed
+  875  ░░ Defined-By: systemd
+  876  ░░ Support: http://www.ubuntu.com/support
+  877  ░░
+  878  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  879  Sep 10 13:57:28 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  880  ░░ Subject: A start job for unit openvpn@server.service has failed
+  881  ░░ Defined-By: systemd
+  882  ░░ Support: http://www.ubuntu.com/support
+  883  ░░
+  884  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  885  ░░
+  886  ░░ The job identifier is 15137 and the job result is failed.
+  887  ~
+  888  lines 4079-4127/4127 (END)
+  889  leej@vm863991:/etc/openvpn/easy-rsa$ sudo nano /etc/openvpn/server.conf                              leej@vm863991:/etc/openvpn/easy-rsa$ sudo nano /etc/openvpn/server.conf
+  890  leej@vm863991:/etc/openvpn/easy-rsa$ sudo nano /etc/openvpn/server.conf
+  891  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server                             Job for openvpn@server.service failed because the control process exited with er                     ror code.
+  892  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@serve                     r.service" for details.
+  893  leej@vm863991:/etc/openvpn/easy-rsa$ sudo openvpn --genkey --secret ta.key
+  894  2024-09-10 14:04:08 DEPRECATED OPTION: The option --secret is deprecated.
+  895  2024-09-10 14:04:08 WARNING: Using --genkey --secret filename is DEPRECATED.  Us                     e --genkey secret filename instead.
+  896  leej@vm863991:/etc/openvpn/easy-rsa$ sudo chmood 600 /etc/openvpn/keys/*
+  897  sudo: chmood: command not found
+  898  leej@vm863991:/etc/openvpn/easy-rsa$ sudo chmod 600 /etc/openvpn/keys/*
+  899  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server
+  900  Job for openvpn@server.service failed because the control process exited with er                     ror code.
+  901  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@serve                     r.service" for details.
+  902  leej@vm863991:/etc/openvpn/easy-rsa$ ls
+  903  easyrsa  openssl-easyrsa.cnf  pki  ta.key  vars  vars.example  x509-types
+  904  leej@vm863991:/etc/openvpn/easy-rsa$ cd ./etc
+  905  -bash: cd: ./etc: No such file or directory
+  906  leej@vm863991:/etc/openvpn/easy-rsa$ cd etc
+  907  -bash: cd: etc: No such file or directory
+  908  leej@vm863991:/etc/openvpn/easy-rsa$ ls
+  909  easyrsa  openssl-easyrsa.cnf  pki  ta.key  vars  vars.example  x509-types
+  910  leej@vm863991:/etc/openvpn/easy-rsa$ sudo openvpn --genkey --secret ta.key
+  911  2024-09-10 14:07:43 DEPRECATED OPTION: The option --secret is deprecated.
+  912  2024-09-10 14:07:43 WARNING: Using --genkey --secret filename is DEPRECATED.  Us                     e --genkey secret filename instead.
+  913  leej@vm863991:/etc/openvpn/easy-rsa$ sudo journalctl -xeu openvpn@server.service
+  914  ░░
+  915  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  916  ░░
+  917  ░░ The process' exit code is 'exited' and its exit status is 1.
+  918  Sep 10 14:07:52 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  919  ░░ Subject: Unit failed
+  920  ░░ Defined-By: systemd
+  921  ░░ Support: http://www.ubuntu.com/support
+  922  ░░
+  923  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  924  Sep 10 14:07:52 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  925  ░░ Subject: A start job for unit openvpn@server.service has failed
+  926  ░░ Defined-By: systemd
+  927  ░░ Support: http://www.ubuntu.com/support
+  928  ░░
+  929  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  930  ░░
+  931  ░░ The job identifier is 26604 and the job result is failed.
+  932  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Scheduled restart >
+  933  ░░ Subject: Automatic restarting of a unit has been scheduled
+  934  ░░ Defined-By: systemd
+  935  ░░ Support: http://www.ubuntu.com/support
+  936  ░░
+  937  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, >
+  938  ░░ the configured Restart= setting for the unit.
+  939  Sep 10 14:07:58 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN >
+  940  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  941  ░░ Defined-By: systemd
+  942  ░░ Support: http://www.ubuntu.com/support
+  943  ░░
+  944  ░░ A start job for unit openvpn@server.service has begun execution.
+  945  ░░
+  946  ░░ The job identifier is 26698.
+  947  Sep 10 14:07:58 vm863991 ovpn-server[3258]: Options error: Unrecognized option >
+  948  Sep 10 14:07:58 vm863991 ovpn-server[3258]: Use --help for more information.
+  949  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Main process exite>
+  950  ░░ Subject: Unit process exited
+  951  ░░ Defined-By: systemd
+  952  ░░ Support: http://www.ubuntu.com/support
+  953  ░░
+  954  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  955  ░░
+  956  ░░ The process' exit code is 'exited' and its exit status is 1.
+  957  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Failed with result>
+  958  ░░ Subject: Unit failed
+  959  ░░ Defined-By: systemd
+  960  ░░ Support: http://www.ubuntu.com/support
+  961  ░░
+  962  ░░ The unit openvpn@server.service has entered the 'failed' state with result '>
+  963  Sep 10 14:07:58 vm863991 systemd[1]: Failed to start openvpn@server.service - O>
+  964  ░░ Subject: A start job for unit openvpn@server.service has failed
+  965  ░░ Defined-By: systemd
+  966  ░░ Support: http://www.ubuntu.com/support
+  967  ░░
+  968  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  969  ░░
+  970  ░░ The job identifier is 26698 and the job result is failed.
+  971  lines 5514-5570/5570 (END)
+  972  ░░
+  973  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+  974  ░░
+  975  ░░ The process' exit code is 'exited' and its exit status is 1.
+  976  Sep 10 14:07:52 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+  977  ░░ Subject: Unit failed
+  978  ░░ Defined-By: systemd
+  979  ░░ Support: http://www.ubuntu.com/support
+  980  ░░
+  981  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+  982  Sep 10 14:07:52 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+  983  ░░ Subject: A start job for unit openvpn@server.service has failed
+  984  ░░ Defined-By: systemd
+  985  ░░ Support: http://www.ubuntu.com/support
+  986  ░░
+  987  ░░ A start job for unit openvpn@server.service has finished with a failure.
+  988  ░░
+  989  ░░ The job identifier is 26604 and the job result is failed.
+  990  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+  991  ░░ Subject: Automatic restarting of a unit has been scheduled
+  992  ░░ Defined-By: systemd
+  993  ░░ Support: http://www.ubuntu.com/support
+  994  ░░
+  995  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+  996  ░░ the configured Restart= setting for the unit.
+  997  Sep 10 14:07:58 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+  998  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+  999  ░░ Defined-By: systemd
+ 1000  ░░ Support: http://www.ubuntu.com/support
+ 1001  ░░
+ 1002  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1003  ░░
+ 1004  ░░ The job identifier is 26698.
+ 1005  Sep 10 14:07:58 vm863991 ovpn-server[3258]: Options error: Unrecognized option or missing or extra pa
+ 1006  Sep 10 14:07:58 vm863991 ovpn-server[3258]: Use --help for more information.
+ 1007  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1008  ░░ Subject: Unit process exited
+ 1009  ░░ Defined-By: systemd
+ 1010  ░░ Support: http://www.ubuntu.com/support
+ 1011  ░░
+ 1012  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1013  ░░
+ 1014  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1015  Sep 10 14:07:58 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1016  ░░ Subject: Unit failed
+ 1017  ░░ Defined-By: systemd
+ 1018  ░░ Support: http://www.ubuntu.com/support
+ 1019  ░░
+ 1020  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1021  Sep 10 14:07:58 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1022  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1023  ░░ Defined-By: systemd
+ 1024  ░░ Support: http://www.ubuntu.com/support
+ 1025  ░░
+ 1026  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1027  ░░
+ 1028  ░░ The job identifier is 26698 and the job result is failed.
+ 1029  ~
+ 1030  leej@vm863991:/etc/openvpn/easy-rsa$ sudo nano /etc/openvpn/server.conf
+ 1031  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server
+ 1032  Job for openvpn@server.service failed because the control process exited with error code.
+ 1033  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@server.service" for detail
+ 1034  leej@vm863991:/etc/openvpn/easy-rsa$ sudo nano /etc/openvpn/server.conf
+ 1035  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server
+ 1036  Job for openvpn@server.service failed because the control process exited with error code.
+ 1037  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@server.service" for detail
+ 1038  leej@vm863991:/etc/openvpn/easy-rsa$ sudo journalctl -xeu openvpn@server.service
+ 1039  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1040  ░░
+ 1041  ░░ The job identifier is 31679.
+ 1042  Sep 10 14:12:25 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1043  ░░ Subject: Unit process exited
+ 1044  ░░ Defined-By: systemd
+ 1045  ░░ Support: http://www.ubuntu.com/support
+ 1046  ░░
+ 1047  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1048  ░░
+ 1049  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1050  Sep 10 14:12:25 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1051  ░░ Subject: Unit failed
+ 1052  ░░ Defined-By: systemd
+ 1053  ░░ Support: http://www.ubuntu.com/support
+ 1054  ░░
+ 1055  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1056  Sep 10 14:12:25 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1057  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1058  ░░ Defined-By: systemd
+ 1059  ░░ Support: http://www.ubuntu.com/support
+ 1060  ░░
+ 1061  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1062  ░░
+ 1063  ░░ The job identifier is 31679 and the job result is failed.
+ 1064  Sep 10 14:12:31 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1065  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1066  ░░ Defined-By: systemd
+ 1067  ░░ Support: http://www.ubuntu.com/support
+ 1068  ░░
+ 1069  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1070  ░░ the configured Restart= setting for the unit.
+ 1071  Sep 10 14:12:31 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1072  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1073  ░░ Defined-By: systemd
+ 1074  ░░ Support: http://www.ubuntu.com/support
+ 1075  ░░
+ 1076  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1077  ░░
+ 1078  ░░ The job identifier is 31867.
+ 1079  Sep 10 14:12:31 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1080  ░░ Subject: Unit process exited
+ 1081  ░░ Defined-By: systemd
+ 1082  ░░ Support: http://www.ubuntu.com/support
+ 1083  ░░
+ 1084  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1085  ░░
+ 1086  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1087  Sep 10 14:12:31 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1088  ░░ Subject: Unit failed
+ 1089  ░░ Defined-By: systemd
+ 1090  ░░ Support: http://www.ubuntu.com/support
+ 1091  ░░
+ 1092  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1093  Sep 10 14:12:31 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1094  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1095  ░░ Defined-By: systemd
+ 1096  ░░ Support: http://www.ubuntu.com/support
+ 1097  ░░
+ 1098  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1099  ░░
+ 1100  ░░ The job identifier is 31867 and the job result is failed.
+ 1101  lines 5650-5711/5711 (END)
+ 1102  [1]+  Stopped                 sudo journalctl -xeu openvpn@server.service
+ 1103  leej@vm863991:/etc/openvpn/easy-rsa$ sudo openvpn --config /etc/openvpn/server.conf
+ 1104  leej@vm863991:/etc/openvpn/easy-rsa$ sudo chmod 600 /etc/openvpn/keys/*
+ 1105  leej@vm863991:/etc/openvpn/easy-rsa$ sudo netstat -tuln | grep 1194
+ 1106  sudo: netstat: command not found
+ 1107  leej@vm863991:/etc/openvpn/easy-rsa$ sudo netstat -tuln | grep 1194
+ 1108  sudo: netstat: command not found
+ 1109  leej@vm863991:/etc/openvpn/easy-rsa$ sudo journalctl -xeu openvpn@server.service
+ 1110  ░░
+ 1111  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1112  ░░
+ 1113  ░░ The job identifier is 38353.
+ 1114  Sep 10 14:18:33 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1115  ░░ Subject: Unit process exited
+ 1116  ░░ Defined-By: systemd
+ 1117  ░░ Support: http://www.ubuntu.com/support
+ 1118  ░░
+ 1119  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1120  ░░
+ 1121  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1122  Sep 10 14:18:33 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1123  ░░ Subject: Unit failed
+ 1124  ░░ Defined-By: systemd
+ 1125  ░░ Support: http://www.ubuntu.com/support
+ 1126  ░░
+ 1127  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1128  Sep 10 14:18:33 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1129  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1130  ░░ Defined-By: systemd
+ 1131  ░░ Support: http://www.ubuntu.com/support
+ 1132  ░░
+ 1133  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1134  ░░
+ 1135  ░░ The job identifier is 38353 and the job result is failed.
+ 1136  Sep 10 14:18:38 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1137  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1138  ░░ Defined-By: systemd
+ 1139  ░░ Support: http://www.ubuntu.com/support
+ 1140  ░░
+ 1141  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1142  ░░ the configured Restart= setting for the unit.
+ 1143  Sep 10 14:18:38 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1144  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1145  ░░ Defined-By: systemd
+ 1146  ░░ Support: http://www.ubuntu.com/support
+ 1147  ░░
+ 1148  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1149  ░░
+ 1150  ░░ The job identifier is 38447.
+ 1151  Sep 10 14:18:38 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1152  ░░ Subject: Unit process exited
+ 1153  ░░ Defined-By: systemd
+ 1154  ░░ Support: http://www.ubuntu.com/support
+ 1155  ░░
+ 1156  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1157  ░░
+ 1158  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1159  Sep 10 14:18:38 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1160  ░░ Subject: Unit failed
+ 1161  ░░ Defined-By: systemd
+ 1162  ░░ Support: http://www.ubuntu.com/support
+ 1163  ░░
+ 1164  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1165  Sep 10 14:18:38 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1166  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1167  ░░ Defined-By: systemd
+ 1168  ░░ Support: http://www.ubuntu.com/support
+ 1169  ░░
+ 1170  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1171  ░░
+ 1172  ░░ The job identifier is 38447 and the job result is failed.
+ 1173  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server
+ 1174  Job for openvpn@server.service failed because the control process exited with error code.
+ 1175  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@server.service" for detail
+ 1176  leej@vm863991:/etc/openvpn/easy-rsa$ sudo openvpn --config /etc/openvpn/server.conf
+ 1177  leej@vm863991:/etc/openvpn/easy-rsa$ ip a | grep tun0
+ 1178  leej@vm863991:/etc/openvpn/easy-rsa$ sudo systemctl start openvpn@server
+ 1179  Job for openvpn@server.service failed because the control process exited with error code.
+ 1180  See "systemctl status openvpn@server.service" and "journalctl -xeu openvpn@server.service" for detail
+ 1181  leej@vm863991:/etc/openvpn/easy-rsa$ sudo openvpn --config /etc/openvpn/server.conf
+ 1182  leej@vm863991:/etc/openvpn/easy-rsa$ lsmod | grep tun
+ 1183  leej@vm863991:/etc/openvpn/easy-rsa$ sudo journalctl -xeu openvpn@server.service
+ 1184  ░░
+ 1185  ░░ The job identifier is 46342 and the job result is failed.
+ 1186  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1187  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1188  ░░ Defined-By: systemd
+ 1189  ░░ Support: http://www.ubuntu.com/support
+ 1190  ░░
+ 1191  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1192  ░░ the configured Restart= setting for the unit.
+ 1193  Sep 10 14:25:49 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1194  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1195  ░░ Defined-By: systemd
+ 1196  ░░ Support: http://www.ubuntu.com/support
+ 1197  ░░
+ 1198  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1199  ░░
+ 1200  ░░ The job identifier is 46436.
+ 1201  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1202  ░░ Subject: Unit process exited
+ 1203  ░░ Defined-By: systemd
+ 1204  ░░ Support: http://www.ubuntu.com/support
+ 1205  ░░
+ 1206  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1207  ░░
+ 1208  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1209  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1210  ░░ Subject: Unit failed
+ 1211  ░░ Defined-By: systemd
+ 1212  ░░ Support: http://www.ubuntu.com/support
+ 1213  ░░
+ 1214  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1215  Sep 10 14:25:49 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1216  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1217  ░░ Defined-By: systemd
+ 1218  ░░ Support: http://www.ubuntu.com/support
+ 1219  ░░
+ 1220  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1221  ░░
+ 1222  ░░ The job identifier is 46436 and the job result is failed.
+ 1223  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1224  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1225  ░░ Defined-By: systemd
+ 1226  ░░ Support: http://www.ubuntu.com/support
+ 1227  ░░
+ 1228  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1229  ░░ the configured Restart= setting for the unit.
+ 1230  Sep 10 14:25:54 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1231  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1232  ░░ Defined-By: systemd
+ 1233  ░░ Support: http://www.ubuntu.com/support
+ 1234  ░░
+ 1235  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1236  ░░
+ 1237  ░░ The job identifier is 46530.
+ 1238  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1239  ░░ Subject: Unit process exited
+ 1240  ░░ Defined-By: systemd
+ 1241  ░░ Support: http://www.ubuntu.com/support
+ 1242  ░░
+ 1243  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1244  ░░
+ 1245  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1246  lines 6787-6848/7195 95%
+ 1247  ░░
+ 1248  ░░ The job identifier is 46342 and the job result is failed.
+ 1249  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1250  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1251  ░░ Defined-By: systemd
+ 1252  ░░ Support: http://www.ubuntu.com/support
+ 1253  ░░
+ 1254  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1255  ░░ the configured Restart= setting for the unit.
+ 1256  Sep 10 14:25:49 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1257  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1258  ░░ Defined-By: systemd
+ 1259  ░░ Support: http://www.ubuntu.com/support
+ 1260  ░░
+ 1261  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1262  ░░
+ 1263  ░░ The job identifier is 46436.
+ 1264  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1265  ░░ Subject: Unit process exited
+ 1266  ░░ Defined-By: systemd
+ 1267  ░░ Support: http://www.ubuntu.com/support
+ 1268  ░░
+ 1269  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1270  ░░
+ 1271  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1272  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1273  ░░ Subject: Unit failed
+ 1274  ░░ Defined-By: systemd
+ 1275  ░░ Support: http://www.ubuntu.com/support
+ 1276  ░░
+ 1277  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1278  Sep 10 14:25:49 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1279  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1280  ░░ Defined-By: systemd
+ 1281  ░░ Support: http://www.ubuntu.com/support
+ 1282  ░░
+ 1283  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1284  ░░
+ 1285  ░░ The job identifier is 46436 and the job result is failed.
+ 1286  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1287  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1288  ░░ Defined-By: systemd
+ 1289  ░░ Support: http://www.ubuntu.com/support
+ 1290  ░░
+ 1291  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1292  ░░ the configured Restart= setting for the unit.
+ 1293  Sep 10 14:25:54 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1294  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1295  ░░ Defined-By: systemd
+ 1296  ░░ Support: http://www.ubuntu.com/support
+ 1297  ░░
+ 1298  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1299  ░░
+ 1300  ░░ The job identifier is 46530.
+ 1301  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1302  ░░ Subject: Unit process exited
+ 1303  ░░ Defined-By: systemd
+ 1304  ░░ Support: http://www.ubuntu.com/support
+ 1305  ░░
+ 1306  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1307  ░░
+ 1308  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1309  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1310  lines 6787-6849/7195 95%
+ 1311  ░░
+ 1312  ░░ The job identifier is 46342 and the job result is failed.
+ 1313  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1314  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1315  ░░ Defined-By: systemd
+ 1316  ░░ Support: http://www.ubuntu.com/support
+ 1317  ░░
+ 1318  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1319  ░░ the configured Restart= setting for the unit.
+ 1320  Sep 10 14:25:49 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1321  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1322  ░░ Defined-By: systemd
+ 1323  ░░ Support: http://www.ubuntu.com/support
+ 1324  ░░
+ 1325  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1326  ░░
+ 1327  ░░ The job identifier is 46436.
+ 1328  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1329  ░░ Subject: Unit process exited
+ 1330  ░░ Defined-By: systemd
+ 1331  ░░ Support: http://www.ubuntu.com/support
+ 1332  ░░
+ 1333  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1334  ░░
+ 1335  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1336  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1337  ░░ Subject: Unit failed
+ 1338  ░░ Defined-By: systemd
+ 1339  ░░ Support: http://www.ubuntu.com/support
+ 1340  ░░
+ 1341  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1342  Sep 10 14:25:49 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to s
+ 1343  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1344  ░░ Defined-By: systemd
+ 1345  ░░ Support: http://www.ubuntu.com/support
+ 1346  ░░
+ 1347  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1348  ░░
+ 1349  ░░ The job identifier is 46436 and the job result is failed.
+ 1350  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter i
+ 1351  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1352  ░░ Defined-By: systemd
+ 1353  ░░ Support: http://www.ubuntu.com/support
+ 1354  ░░
+ 1355  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1356  ░░ the configured Restart= setting for the unit.
+ 1357  Sep 10 14:25:54 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server..
+ 1358  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1359  ░░ Defined-By: systemd
+ 1360  ░░ Support: http://www.ubuntu.com/support
+ 1361  ░░
+ 1362  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1363  ░░
+ 1364  ░░ The job identifier is 46530.
+ 1365  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, status
+ 1366  ░░ Subject: Unit process exited
+ 1367  ░░ Defined-By: systemd
+ 1368  ░░ Support: http://www.ubuntu.com/support
+ 1369  ░░
+ 1370  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1371  ░░
+ 1372  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1373  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1374  lines 6787-6849/7195 95%
+ 1375  ░░
+ 1376  ░░ The job identifier is 46342 and the job result is failed.
+ 1377  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter >
+ 1378  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1379  ░░ Defined-By: systemd
+ 1380  ░░ Support: http://www.ubuntu.com/support
+ 1381  ░░
+ 1382  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1383  ░░ the configured Restart= setting for the unit.
+ 1384  Sep 10 14:25:49 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server.>
+ 1385  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1386  ░░ Defined-By: systemd
+ 1387  ░░ Support: http://www.ubuntu.com/support
+ 1388  ░░
+ 1389  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1390  ░░
+ 1391  ░░ The job identifier is 46436.
+ 1392  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, statu>
+ 1393  ░░ Subject: Unit process exited
+ 1394  ░░ Defined-By: systemd
+ 1395  ░░ Support: http://www.ubuntu.com/support
+ 1396  ░░
+ 1397  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1398  ░░
+ 1399  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1400  Sep 10 14:25:49 vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1401  ░░ Subject: Unit failed
+ 1402  ░░ Defined-By: systemd
+ 1403  ░░ Support: http://www.ubuntu.com/support
+ 1404  ░░
+ 1405  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1406  Sep 10 14:25:49 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to >
+ 1407  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1408  ░░ Defined-By: systemd
+ 1409  ░░ Support: http://www.ubuntu.com/support
+ 1410  ░░
+ 1411  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1412  ░░
+ 1413  ░░ The job identifier is 46436 and the job result is failed.
+ 1414  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter >
+ 1415  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1416  ░░ Defined-By: systemd
+ 1417  ░░ Support: http://www.ubuntu.com/support
+ 1418  ░░
+ 1419  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1420  ░░ the configured Restart= setting for the unit.
+ 1421  Sep 10 14:25:54 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server.>
+ 1422  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1423  ░░ Defined-By: systemd
+ 1424  ░░ Support: http://www.ubuntu.com/support
+ 1425  ░░
+ 1426  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1427  ░░
+ 1428  ░░ The job identifier is 46530.
+ 1429  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, statu>
+ 1430  ░░ Subject: Unit process exited
+ 1431  ░░ Defined-By: systemd
+ 1432  ░░ Support: http://www.ubuntu.com/support
+ 1433  ░░
+ 1434  ░░ An ExecStart= process belonging to unit openvpn@server.service has exited.
+ 1435  ░░
+ 1436  ░░ The process' exit code is 'exited' and its exit status is 1.
+ 1437  lines 6787-6848/7195 95%
+ 1438  leej@vm863991:/etc/openvpn/easy-rsa$ ^C
+ 1439  leej@vm863991:/etc/openvpn/easy-rsa$ vm863991 systemd[1]: openvpn@server.service: Failed with result 'exit-code'.
+ 1440  ░░ Subject: Unit failed
+ 1441  ░░ Defined-By: systemd
+ 1442  ░░ Support: http://www.ubuntu.com/support
+ 1443  ░░
+ 1444  ░░ The unit openvpn@server.service has entered the 'failed' state with result 'exit-code'.
+ 1445  Sep 10 14:25:49 vm863991 systemd[1]: Failed to start openvpn@server.service - OpenVPN connection to >
+ 1446  ░░ Subject: A start job for unit openvpn@server.service has failed
+ 1447  ░░ Defined-By: systemd
+ 1448  ░░ Support: http://www.ubuntu.com/support
+ 1449  ░░
+ 1450  ░░ A start job for unit openvpn@server.service has finished with a failure.
+ 1451  ░░
+ 1452  ░░ The job identifier is 46436 and the job result is failed.
+ 1453  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Scheduled restart job, restart counter >
+ 1454  ░░ Subject: Automatic restarting of a unit has been scheduled
+ 1455  ░░ Defined-By: systemd
+ 1456  ░░ Support: http://www.ubuntu.com/support
+ 1457  ░░
+ 1458  ░░ Automatic restarting of the unit openvpn@server.service has been scheduled, as the result for
+ 1459  ░░ the configured Restart= setting for the unit.
+ 1460  Sep 10 14:25:54 vm863991 systemd[1]: Starting openvpn@server.service - OpenVPN connection to server.>
+ 1461  ░░ Subject: A start job for unit openvpn@server.service has begun execution
+ 1462  ░░ Defined-By: systemd
+ 1463  ░░ Support: http://www.ubuntu.com/support
+ 1464  ░░
+ 1465  ░░ A start job for unit openvpn@server.service has begun execution.
+ 1466  ░░
+ 1467  ░░ The job identifier is 46530.
+ 1468  Sep 10 14:25:54 vm863991 systemd[1]: openvpn@server.service: Main process exited, code=exited, statu>
+ 1469  ░░ Subject: Unit process exited
+ 1470  ░░ Defined-By: systemd
+ 1471  ░░ Suppo
+ 1472  vm863991: command not found
+ 1473  ░░: command not found
+ 1474  -bash: syntax error near unexpected token `newline'
+ 1475  ░░: command not found
+ 1476  ░░: command not found
+ 1477  ░░: command not found
+ 1478  ░░: command not found
+ 1479  ░░: command not found
+ 1480  ░░: command not found
+ 1481  ░░: command not found
+ 1482  -bash: syntax error near unexpected token `newline'
+ 1483  ░░: command not found
+ 1484  ░░: command not found
+ 1485  ░░: command not found
+ 1486  ░░: command not found
+ 1487  ░░: command not found
+ 1488  ░░: command not found
+ 1489  -bash: syntax error near unexpected token `newline'
+ 1490  ░░: command not found
+ 1491  -bash: syntax error near unexpected token `newline'
+ 1492  ░░: command not found
+ 1493  ░░: command not found
+ 1494  ░░: command not found
+ 1495  leej@vm863991:/etc/openvpn/easy-rsa$
+ 1496  leej@vm863991:/etc/openvpn/easy-rsa$
+ 1497  mkdir docker_python_app
+ 1498  cd docker_python_app/
+ 1499  touch app.pyyy
+ 1500  rm -rf app.pyyy 
+ 1501  touch app.py
+ 1502  nano app.py 
+ 1503  touch Dockerfile
+ 1504  nano Dockerfile 
+ 1505  docker build -t python-docker-app
+ 1506  docker build -t python-docker-app .
+ 1507  sudo docker build -t python-docker-app .
+ 1508  nano Dockerfile 
+ 1509  sudo docker build -t python-docker-app .
+ 1510  docker run --name py_cont -d python-docker-app
+ 1511  sudo docker run --name py_cont -d python-docker-app
+ 1512  nano Dockerfile 
+ 1513  sudo docker run --name py_cont -d python-docker-app
+ 1514  sudo docker logs py-cont
+ 1515  sudo docker logs py_cont
+ 1516  sudo stop pe-cont
+ 1517  sudo docker stop pe-cont
+ 1518  sudo docker stop py_cont
+ 1519  sudo docker rm py_cont
+ 1520  sudo docker build -t python-docker-app
+ 1521  histore > history.txt
+ 1522  history > history.txt
+ 1523  nano history.txt 
+ 1524  nano Dockerfile 
+ 1525  touch docker-compose.yaml
+ 1526  nano docker-compose.yaml 
+ 1527  sudo docker-compose up -d
+ 1528  docker ps
+ 1529  sudo docker ps
+ 1530  touch docker-compose.dev.yaml docker-compose.prod.yaml docker-compose.lab.yaml
+ 1531  nano docker-compose.dev.yaml 
+ 1532  nano docker-compose.prod.yaml 
+ 1533  nano docker-compose.lab.yaml 
+ 1534  sudo docker-compose -f docker-compose.dev.yaml up -d
+ 1535  nano docker-compose.dev.yaml 
+ 1536  sudo docker-compose -f docker-compose.dev.yaml up -d
+ 1537  sudo docker-compose -f docker-compose.prod.yaml up -d
+ 1538  nano docker-compose.prod.yaml 
+ 1539  nano docker-compose.lab.yaml 
+ 1540  docker-compose -f docker-compose.prod.yaml up -d
+ 1541  docker-compose -f docker-compose.lab.yaml up -d
+ 1542  sudo docker-compose -f docker-compose.prod.yaml up -d
+ 1543  sudo ocker-compose -f docker-compose.lab.yaml up -d
+ 1544  sudo docker-compose -f docker-compose.lab.yaml up -d
+ 1545  sudo [200~docker ps
+ 1546  sudo docker ps
+ 1547  nano docker-compose.dev.yaml 
+ 1548  [200~   sudo docker-compose -f docker-compose.dev.yaml up -d
+ 1549  ~   sudo docker-compose -f docker-compose.dev.yaml up -d
+ 1550  sudo docker ps
+ 1551  sudo docker-compose -f docker-compose.lab.yaml logs
+ 1552  history | grep docker
+ 1553  sudo docker-compose -f docker-compose.dev.yaml down
+ 1554  sudo docker-compose -f docker-compose.lab.yaml down
+ 1555  sudo docker-compose -f docker-compose.dev.yaml down --volumes --rmi all
+ 1556  source /home/leej/gym/GYM/venv/bin/activate
+ 1557  buildozer -v android debug
+ 1558  cd pitomnik2
+ 1559  Pitomnik2
+ 1560  cd Pitomnik2
+ 1561  cat > Pets.txt
+ 1562  cat > PackAnimals.txt
+ 1563  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+ 1564  cat HumanFriends.txt 
+ 1565  mv HumanFriends.txt HumanFriends.txt 
+ 1566  claer
+ 1567  cat > Pets.txt
+ 1568  cat > PackAnimals.txt
+ 1569  cat Pets.txt PackAnimals.txt > Animals.txt
+ 1570  cat Animals.txt 
+ 1571  mv Animals.txt HumanFriends.txt
+ 1572  ls
+ 1573  cd Pitomnik2/
+ 1574  cat > Pets.txt
+ 1575  cat > PackAnimals.txt
+ 1576  cat Pets.txt PackAnimals.txt > Animals.txt
+ 1577  cat Animals.txt 
+ 1578  mv Animals.txt HumanFriends.txt
+ 1579  ls
+ 1580  mkdir PetsDirectory
+ 1581  mv HumanFriends.txt PetsDirectory/
+ 1582  cd PetsDirectory/
+ 1583  ls
+ 1584  sudo apt-get update
+ 1585  sudo apt-get intstall mysql-server
+ 1586  sudo apt-get install mysql-server
+ 1587  mysql --version
+ 1588  sudo apt-get install cowsay
+ 1589* cowsay "Здарова отец
+ 1590  sudo apt-get remove cowsay
+ 1591  history > history.txt
